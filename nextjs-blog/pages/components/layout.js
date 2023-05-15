@@ -43,7 +43,7 @@ return (
                 <Link href="/">
                     <Image
                     priority
-                    src="/images/profile.jpg"
+                    src="/images/twitter-profile-icon.jpg"
                     className={utilStyles.borderCircle}
                     height={108}
                     width={108}
